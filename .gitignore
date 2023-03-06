@@ -1,0 +1,20 @@
+# DEPENDENCIES
+/node_modules
+
+# BUILD
+/build/
+
+# MISC
+.DS_Store
+
+# ENV FILES
+.env.production
+.env
+
+# DEBUG
+npm-debug.log\*
+.nyc_output
+coverage
+
+# Turbo
+.turbo
