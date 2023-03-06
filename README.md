@@ -38,7 +38,7 @@ The necessary values to be filled are in ```.env.example```
 
 ```pnpm dev```
 
-4. Access the "Hello World" example
+4. Access the route
 
 Don't forget to set the Bearer authorization header with the ```AUTH_TOKEN``` env var (default = secret)
 
@@ -53,7 +53,7 @@ You can use Docker to run the backend:
 
 ```docker-compose up -d```
 
-2. Access the "Hello World" example
+2. Access the route
 
 Don't forget to set the Bearer authorization header with the ```AUTH_TOKEN``` env var (default = secret)
 
